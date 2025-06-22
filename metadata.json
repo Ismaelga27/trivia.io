@@ -1,0 +1,6 @@
+{
+  "name": "Mente Maestra (trivIA.io)",
+  "description": "Una plataforma de trivia inteligente y social que utiliza IA Generativa para crear partidas infinitas y personalizadas. Este MVP permite definir un tema, dos jugadores y jugar una ronda de dos preguntas.",
+  "manifest": "public/manifest.json",
+  "requestFramePermissions": []
+}
